@@ -15,15 +15,20 @@ const About = () => {
         Hello, I'm{" "}
         <span className='blue-gradient_text font-semibold drop-shadow'>
           {" "}
-          Adrian
+          Raj Dhaki
         </span>{" "}
         👋
       </h1>
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Software Engineer based in Croatia, specializing in technical
-          education through hands-on learning and building applications.
+          Experienced Full Stack Web Developer proficient in React.js, JavaScript, Node.js,
+          Express.js, and MongoDB. Skilled in frontend and backend development with a focus on
+          UI/UX design integration. Certified in web development from Remark Skill.
+          Successfully delivered projects including chat applications, e-commerce platforms, news
+          applications, and appointment booking systems. Dedicated to continuous learning and
+          innovation.
+
         </p>
       </div>
 
