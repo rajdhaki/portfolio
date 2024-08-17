@@ -101,7 +101,7 @@ export const experiences = [
     },
     {
         title: "Web Developer",
-        company_name: "Shopify",
+        company_name: "IBM",
         icon: shopify,
         iconBg: "#b7e4c7",
         date: "Current",
